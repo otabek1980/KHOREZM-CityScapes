@@ -1,3 +1,3 @@
 # CityScapes Landing Page
 
-# Link: 
+# Link: https://otabek1980.github.io/KHOREZM-CityScapes/
